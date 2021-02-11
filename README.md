@@ -35,10 +35,3 @@ poderão ser visíveis a todos os usuários. Apenas o criador do comentário pod
 ### Exemplos Requests
 https://www.getpostman.com/collections/db40adbd7ca55a59bade
 
-### Esclarecimentos
-Esse trabalho foi desenvolvido 20 horas de esforço.
-O Angular 8 me exigiu uma tempo de estudo que não pude investir até o prazo final. 
-
-Desde já agradeço pela oportunidade.
-
-
